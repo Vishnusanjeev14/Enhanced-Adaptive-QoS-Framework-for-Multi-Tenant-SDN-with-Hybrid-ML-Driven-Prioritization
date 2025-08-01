@@ -1,0 +1,2 @@
+# Enhanced-Adaptive-QoS-Framework-for-Multi-Tenant-SDN-with-Hybrid-ML-Driven-Prioritization
+This project simulates a hybrid bus-star network architecture incorporating Software-Defined Networking (SDN) principles to manage dynamic packet routing and quality of service . The system compares traditional rule-based traffic classification with a machine learning approach, using real network traffic features to prioritize packets effectively.
